@@ -80,6 +80,6 @@ Python was used for **data preprocessing** and **feature engineering**, such as:
 ---
 
 ## 🧰 Tools Used
-Power BI:	Dashboarding, DAX measures, KPI tracking
-Python: (pandas, numpy)	Data wrangling, RFM & CLV metrics, simulation logic
-Excel / CSV:	Raw data source imports
+- Power BI:	Dashboarding, DAX measures, KPI tracking
+- Python: (pandas, numpy)	Data wrangling, RFM & CLV metrics, simulation logic
+- Excel / CSV:	Raw data source imports
